@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joncici\\Desktop\\III godina\\VI semestar\\Sistemsko programiranje\\Projekat2\\ProjectSBKW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79A141F6-B3F6-433D-B13C-36928073CF88}|ProjectSBKW.csproj|c:\\users\\joncici\\desktop\\iii godina\\vi semestar\\sistemsko programiranje\\projekat2\\projectsbkw\\lrucache\\lrucachell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A141F6-B3F6-433D-B13C-36928073CF88}|ProjectSBKW.csproj|solutionrelative:lrucache\\lrucachell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A141F6-B3F6-433D-B13C-36928073CF88}|ProjectSBKW.csproj|C:\\Users\\Joncici\\Desktop\\III godina\\VI semestar\\Sistemsko programiranje\\Projekat2\\ProjectSBKW\\services\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A141F6-B3F6-433D-B13C-36928073CF88}|ProjectSBKW.csproj|solutionrelative:services\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A141F6-B3F6-433D-B13C-36928073CF88}|ProjectSBKW.csproj|C:\\Users\\Joncici\\Desktop\\III godina\\VI semestar\\Sistemsko programiranje\\Projekat2\\ProjectSBKW\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A141F6-B3F6-433D-B13C-36928073CF88}|ProjectSBKW.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A141F6-B3F6-433D-B13C-36928073CF88}|ProjectSBKW.csproj|C:\\Users\\Joncici\\Desktop\\III godina\\VI semestar\\Sistemsko programiranje\\Projekat2\\ProjectSBKW\\lrucache\\doublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A141F6-B3F6-433D-B13C-36928073CF88}|ProjectSBKW.csproj|solutionrelative:lrucache\\doublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A141F6-B3F6-433D-B13C-36928073CF88}|ProjectSBKW.csproj|C:\\Users\\Joncici\\Desktop\\III godina\\VI semestar\\Sistemsko programiranje\\Projekat2\\ProjectSBKW\\lrucache\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A141F6-B3F6-433D-B13C-36928073CF88}|ProjectSBKW.csproj|solutionrelative:lrucache\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 259,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joncici\\Desktop\\III godina\\VI semestar\\Sistemsko programiranje\\Projekat2\\ProjectSBKW\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Joncici\\Desktop\\III godina\\VI semestar\\Sistemsko programiranje\\Projekat2\\ProjectSBKW\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:29:28.609Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Handler.cs",
+              "DocumentMoniker": "C:\\Users\\Joncici\\Desktop\\III godina\\VI semestar\\Sistemsko programiranje\\Projekat2\\ProjectSBKW\\Services\\Handler.cs",
+              "RelativeDocumentMoniker": "Services\\Handler.cs",
+              "ToolTip": "C:\\Users\\Joncici\\Desktop\\III godina\\VI semestar\\Sistemsko programiranje\\Projekat2\\ProjectSBKW\\Services\\Handler.cs",
+              "RelativeToolTip": "Services\\Handler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAG0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:29:29.522Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LRUCacheLL.cs",
+              "DocumentMoniker": "C:\\Users\\Joncici\\Desktop\\III godina\\VI semestar\\Sistemsko programiranje\\Projekat2\\ProjectSBKW\\LRUCache\\LRUCacheLL.cs",
+              "RelativeDocumentMoniker": "LRUCache\\LRUCacheLL.cs",
+              "ToolTip": "C:\\Users\\Joncici\\Desktop\\III godina\\VI semestar\\Sistemsko programiranje\\Projekat2\\ProjectSBKW\\LRUCache\\LRUCacheLL.cs",
+              "RelativeToolTip": "LRUCache\\LRUCacheLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:29:29.543Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\Joncici\\Desktop\\III godina\\VI semestar\\Sistemsko programiranje\\Projekat2\\ProjectSBKW\\LRUCache\\Node.cs",
+              "RelativeDocumentMoniker": "LRUCache\\Node.cs",
+              "ToolTip": "C:\\Users\\Joncici\\Desktop\\III godina\\VI semestar\\Sistemsko programiranje\\Projekat2\\ProjectSBKW\\LRUCache\\Node.cs",
+              "RelativeToolTip": "LRUCache\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:11:29.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoublyLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\Joncici\\Desktop\\III godina\\VI semestar\\Sistemsko programiranje\\Projekat2\\ProjectSBKW\\LRUCache\\DoublyLinkedList.cs",
+              "RelativeDocumentMoniker": "LRUCache\\DoublyLinkedList.cs",
+              "ToolTip": "C:\\Users\\Joncici\\Desktop\\III godina\\VI semestar\\Sistemsko programiranje\\Projekat2\\ProjectSBKW\\LRUCache\\DoublyLinkedList.cs",
+              "RelativeToolTip": "LRUCache\\DoublyLinkedList.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:11:28.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

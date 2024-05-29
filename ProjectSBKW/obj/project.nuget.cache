@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "env1rukfoEvGjRwpNXfD14cgCrPc2+PZmohfTKyxloyNLctbtr+yxJ7Je1UXD+/5tZsLb90oZPlFVBj5E7qCNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joncici\\Desktop\\III godina\\VI semestar\\Sistemsko programiranje\\Projekat2\\ProjectSBKW\\ProjectSBKW.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joncici\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
